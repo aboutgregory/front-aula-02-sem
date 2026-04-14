@@ -1,7 +1,10 @@
-/* Reset básico */
-*{
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
+
+.cabecalho{
+    height: 10vh;
+    width: 100vw;
 }
-/* Reset básico */
+
+.cabecalho_li{
+    display: inline-block;
+    margin: 1%;
+}
