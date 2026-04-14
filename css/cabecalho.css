@@ -8,3 +8,17 @@
     display: inline-block;
     margin: 1%;
 }
+
+.cabecalho_li_a{
+    display: inline-block;
+    text-align: center;
+    width: 10vw;
+    background-color: beige;
+    padding: 8%;
+    border-radius: 10%;
+}
+
+.cabecalho_li_a:hover {
+    background-color: brown;
+    color:beige;
+}
