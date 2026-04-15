@@ -12,13 +12,15 @@
 .cabecalho_li_a{
     display: inline-block;
     text-align: center;
+    font-weight: 600;
     width: 10vw;
-    background-color: beige;
+    color: #421010;
+    background-color: #DA5252;
     padding: 8%;
-    border-radius: 10%;
+    border-radius: 15%;
 }
 
 .cabecalho_li_a:hover {
-    background-color: brown;
-    color:beige;
+    background-color: #421010;
+    color: #DA5252;
 }
